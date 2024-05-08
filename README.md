@@ -131,7 +131,7 @@ You can take the suggestion again, but it possiblethat things get repeated over 
 
 Of course, you can also encounter error at any point of time. 
 
-![Error](./images/Demos/17_PossibleError.jpg)
+![Error](./Demos/images/17_PossibleError.jpg)
 
 But that should be fine. Errors are expected, and remember. You are the main pilot, and Copilot is jst your companion. You can always override and change the code.
 
